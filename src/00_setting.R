@@ -1,0 +1,5 @@
+library(tidyverse)
+library(RColorBrewer)
+`%out%` = Negate(`%in%`)
+Mycol <- c("#08306B", "#238B45", "#FD8D3C", "#D4B9DA", "#FFEDA0")
+over50 <- c("50", "51", "52", "53", "54", "55+")

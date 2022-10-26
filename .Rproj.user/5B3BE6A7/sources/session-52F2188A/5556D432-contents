@@ -1,0 +1,5 @@
+source("src/12_myfunction.R")
+fun_EYWC_p(SWE_p)
+fun_EYWC_p(USA_p)
+fun_EYWC_c(SWE_p, SWE_c)
+fun_EYWC_c(USA_p, USA_c)
