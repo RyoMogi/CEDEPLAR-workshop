@@ -1,1 +1,1 @@
-/data
+rm '/data'
