@@ -3,7 +3,7 @@
     "path": "C:/Users/rymo/OneDrive - Syddansk Universitet/Conference_seminar/Cedeplar22/.gitignore",
     "project_path": ".gitignore",
     "type": "gitignore",
-    "hash": "576295466",
+    "hash": "2349992929",
     "contents": "",
     "dirty": false,
     "created": 1666745432261.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "1,9",
+        "cursorPosition": "0,9",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1666745462,
+    "lastKnownWriteTime": 1666745832,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1666745462035,
+    "last_content_update": 1666745832429,
     "read_only": false,
     "read_only_alternatives": []
 }
