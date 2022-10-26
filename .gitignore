@@ -1,5 +1,5 @@
-rm '/data/SWEcft.txt'
-rm '/data/SWEpft.txt'
-rm '/data/USAcft.txt'
-rm '/data/USApft.txt'
+/data/SWEcft.txt
+/data/SWEpft.txt
+/data/USAcft.txt
+/data/USApft.txt
 
