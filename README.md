@@ -4,6 +4,11 @@
 
 CEDEPLAR workshop
 
+## Preparation
+In the lab session, we use R.
+
+Please register [the Human Fertility Database](https://www.humanfertility.org/Home/Index) and download period fertility tables (pft) and cohort fertility tables (cft) of Sweden and the US.
+
 ## Main references
 - Mogi, R., Nisén, J., & Canudas-Romo, V. (2021). [Cross-sectional average length of life childless](https://read.dukeupress.edu/demography/article/58/1/321/167783/Cross-Sectional-Average-Length-of-Life-Childless). *Demography* 58(1): 321–344.
 
