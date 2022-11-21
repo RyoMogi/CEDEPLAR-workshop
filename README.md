@@ -4,6 +4,11 @@
 
 CEDEPLAR workshop
 
+## Contact
+twitter: [@rmogimogi](https://twitter.com/rmogimogi)
+
+mail: `rymo[at]sdu.dk`
+
 ## Preparation
 In the lab session, we use R.
 
