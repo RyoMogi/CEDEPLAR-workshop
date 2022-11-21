@@ -33,6 +33,10 @@ fun_EYWC_p <- function(data_p){
   
   Lx_p <- c()
   for(i in 1:37){
+    # the equation below should be n/2, where n is the number of age range.
+    # in this example, we have 1 year age range, so n/2 = 1/2 = 0.5. 
+    # Thus, if you have different age range, then you need to change this n/2 correspondingly.
+    # Later as well.
     Lx_p[i] <- 0.5 * (lx_p[i] + lx_p[i+1])
   }
   Lx_p[38] <- lx_p[38]
@@ -134,7 +138,7 @@ fun_CALC <- function(px, lxLx){
   CALlx <- rev(CALlx)
   
   # CAL lx to CAL Lx
-  CALLx <- (CALlx[1:37] + CALlx[2:38]) * 0.5
+  CALLx <- 0.5 * (CALlx[1:37] + CALlx[2:38])
   CALLx <- c(CALLx, CALlx[38])
   
   # CALC
